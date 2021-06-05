@@ -2,12 +2,14 @@ import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import Particles from "react-particles-js";
 import Fade from "react-reveal/Fade";
+import Slide from "react-reveal/Slide";
 import Container from "react-bootstrap/Container";
 import { Parallax } from "react-parallax";
 import Navbar from "./components/Navbar";
 import Header from "./components/Header";
 import About from "./pages/about/about.component";
-import Skills from "./pages/skills/skills.component"
+import Skills from "./pages/skills/skills.component";
+import Experience from "./pages/experience/experience.component";
 
 function App() {
   return (
@@ -45,6 +47,7 @@ function App() {
         >
           <Container className='container-box rounded'>
             <Fade duration={500}>
+              <hr />
               <About />
             </Fade>
           </Container>
@@ -52,17 +55,37 @@ function App() {
       </div>
       {/* skills section */}
     
-
-    <div>
+      <div>
       
           <Container className='container-box rounded'>
-            <Fade duration={500}>
+            <Slide bottom duration={500}>
+              <hr />
             <Skills />   
+            </Slide>
+          </Container>
+        
+      </div>
+ 
+
+      <div>
+          <Container className='container-box rounded'>
+            <Fade duration={500}>
+              <hr />
+              <Experience />
             </Fade>
           </Container>
         
       </div>
+
+
+
     </div>
+
+   
+
+
+
+
   );
 }
 
