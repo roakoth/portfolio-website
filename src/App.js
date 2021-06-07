@@ -10,6 +10,7 @@ import Header from "./components/Header";
 import About from "./pages/about/about.component";
 import Skills from "./pages/skills/skills.component";
 import Experience from "./pages/experience/experience.component";
+import Projects from "./pages/projects/projects.component";
 
 function App() {
   return (
@@ -76,6 +77,19 @@ function App() {
           </Container>
         
       </div>
+
+
+      <div>
+      
+          <Container className='container-box rounded'>
+            <Slide bottom duration={500}>
+              <hr />
+            <Projects />   
+            </Slide>
+          </Container>
+        
+      </div>
+ 
 
 
 

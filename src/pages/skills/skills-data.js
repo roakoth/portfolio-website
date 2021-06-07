@@ -24,6 +24,8 @@ import L_JAVASCRIPT from "../../assets/img/skills/javascript.svg";
 import L_TYPESCRIPT from "../../assets/img/skills/typescript.svg";
 import L_GOLANG from "../../assets/img/skills/go-6.svg";
 import L_PYTHON from "../../assets/img/skills/python.svg";
+import L_VUEJS from "../../assets/img/skills/vue.png";
+import L_MAPS_API from "../../assets/img/skills/google-maps.png";
 
 export const skills = {
 frontend: [
@@ -56,6 +58,12 @@ frontend: [
         imgAltText: "Bootstrap",
         imgSrc: L_BOOTSTRAP,
         skillName: "Bootstrap",
+      },
+      {
+        link: "https://vuejs.org/",
+        imgAltText: "Vue JS",
+        imgSrc: L_VUEJS,
+        skillName: "VueJS",
       },
       {
         link: "https://reactjs.org/",
@@ -93,6 +101,8 @@ frontend: [
         imgSrc: L_STYLED_COMPONENTS,
         skillName: "styled-components",
       },
+      
+      
 
 ],
 
