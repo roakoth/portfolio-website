@@ -11,6 +11,8 @@ import About from "./pages/about/about.component";
 import Skills from "./pages/skills/skills.component";
 import Experience from "./pages/experience/experience.component";
 import Projects from "./pages/projects/projects.component";
+import Contact from "./pages/contact/contact.component";
+import Footer from "./components/footer/footer.component"
 
 function App() {
   return (
@@ -47,10 +49,10 @@ function App() {
           strength={-200}
         >
           <Container className='container-box rounded'>
-            <Fade duration={500}>
+            <Slide duration={500}>
               <hr />
               <About />
-            </Fade>
+            </Slide>
           </Container>
         </Parallax>
       </div>
@@ -90,8 +92,18 @@ function App() {
         
       </div>
  
+      <div>
+          <Container className='container-box rounded'>
+            <Fade duration={500}>
+              <hr />
+              <Contact />
+            </Fade>
+          </Container>
+        
+      </div>
 
-
+     <hr />
+     <Footer />
 
     </div>
 
