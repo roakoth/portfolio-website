@@ -14,7 +14,7 @@
 
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
-  myPic {
+  .profile {
     width: 250px;
   } 
   }
@@ -22,14 +22,14 @@
 
   /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
-  myPic {
+  .profile {
     width: 250px;
   } 
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
-  myPic {
+  .profile {
     width: 250px;
   } 
 }
@@ -40,11 +40,11 @@
 }
 
 @media (min-width:320px)  { /* smartphones, iPhone, portrait 480x320 phones */
-myPic {
+.profile {
   width: 250px;
 } }
 @media (min-width:481px)  { /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ 
-  myPic {
+  .profile {
     width: 250px;
   }
 }
