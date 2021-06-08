@@ -23,9 +23,18 @@
   /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
   .profile {
-    width: 250px;
+    width: 150px;
   } 
 }
+
+@media only screen and (max-width: 568px) {
+  .profile {
+    width: 150px;
+  } 
+}
+
+
+
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
@@ -36,12 +45,14 @@
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
-
+.profile {
+  max-width: 18em;
+}
 }
 
 @media (min-width:320px)  { /* smartphones, iPhone, portrait 480x320 phones */
 .profile {
-  width: 250px;
+  width: 200px;
 } }
 @media (min-width:481px)  { /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ 
   .profile {
