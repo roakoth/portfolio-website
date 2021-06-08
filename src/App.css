@@ -8,14 +8,20 @@
   --primary-hover-red: #f33501;
 }
 
+#entire {
+  /* background-color: #B9A2C8; */
+  background-color: #4F1770;
+}
+
 body {
   font-family: "Roboto Condensed", sans-serif;
-  background-color:#808080;
+
 }
 
 /*Navbar menu links*/
 nav {
   z-index: 2;
+  position:fixed;
 }
 
 nav a.nav-link {

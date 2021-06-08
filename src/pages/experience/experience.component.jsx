@@ -32,11 +32,11 @@ const Experience = () => {
                     <strong> Description </strong>
                     <ul className="text-left">
                       <li><strong>Developed &amp; supported</strong> multiple features with customizability option across iTax web application.</li>
-                      <li><strong>Prepare</strong> documentations according to set of quality standards
+                      <li><strong>Prepared</strong> documentations according to set of quality standards
                       </li>
                       <li><strong>Provided</strong> application maintenance while working as `Application Support`. 
                       </li>
-                      <li><strong>Performed</strong> CRUD operations on multiple databases to load/ remove data according 
+                      <li><strong>Resolve</strong> issues arising from QA tests for solutions that do not pass QA standards and Information System Security policies
                       to the business requirements.</li>
                       {/* <li><strong>Co-created</strong> React Document used as a guide for new developers.</li> */}
 

@@ -16,7 +16,7 @@ import Footer from "./components/footer/footer.component"
 
 function App() {
   return (
-    <div>
+    <div id="entire">
       <Particles
         className='particles-canvas'
         params={{
@@ -106,11 +106,6 @@ function App() {
      <Footer />
 
     </div>
-
-   
-
-
-
 
   );
 }

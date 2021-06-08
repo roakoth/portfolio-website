@@ -30,11 +30,13 @@ const About = () => {
                   I am <strong>&nbsp;Roselida Akoth Ochieng'</strong>
                 <br />A passionate frontend developer, who loves bringing life to websites, I come from Kenya. I am skilled in React.js, Javascript, HTML, CSS, Sass, Bootstrap and Content Management Systems such as Wordpress.
                 <br />
-                I hold a Bachelor degree in Information Technology. I successfully completed my frontend developer path at OpenClassrooms, I worked on nine projects with the guidance of a mentor.
+                I hold a Bachelor degree in Information Technology. I received my diploma on frontend development certification at OpenClassrooms, I worked on nine projects with the guidance of a mentor.
                 <br />
                  I am attentive to every detail, focused on great user experience and mobile-first approach, whenever I am developing websites. 
                 <br />
-                 I help people as a mentor on their journey to become a software developer. 
+
+                <br />
+                 I help people as a mentor on their journey to become a software developer. I am currently a student community ambassador at OpenClassrooms. I am involved in unblocking students on their frontend development projects and participating in student study sessions.
                 <br />I love learning new technologies, taking a keen look at what problems they are solving and how can I use them to build better and scalable products.
                 <br /> <br />
                 </Row>
