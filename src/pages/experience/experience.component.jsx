@@ -14,7 +14,7 @@ const Experience = () => {
                 <Container>
                 <Tilt options={{ max: 25 }}>
                  <Card>
-                    <Card.Header as="h5" className="d-flex justify-content-center flex-wrap">
+                    <Card.Header as="h3" className="d-flex justify-content-center flex-wrap">
                       Kenya Revenue Authority
                     </Card.Header>
                      <Card.Body className="d-flex justify-content-center flex-column">

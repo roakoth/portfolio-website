@@ -20,3 +20,8 @@
   .image-style1 {
     width: 3em;
   }
+
+  span { 
+    font-weight: bold;
+    font-size: 30px;
+  }
