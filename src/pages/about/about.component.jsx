@@ -25,7 +25,8 @@ const About = () => {
                 </Col>
                {/* About Me Description */}
                 <Col xs={12} md={6}>
-                 <Row className=" align-items-start p-2 my-details rounded">
+                
+                 <Row className=" align-items-start p-2 my-details">
                      {/* Description */}
                   I am <strong>&nbsp;Roselida Akoth Ochieng'</strong>
                 <br />A passionate frontend developer, who loves bringing life to websites, I come from Kenya. I am skilled in React.js, Javascript, HTML, CSS, Sass, Bootstrap and Content Management Systems such as Wordpress.
@@ -72,9 +73,9 @@ const About = () => {
                   </div>
                     
                     </Col>
-                </Row>   
+                 </Row>    
                 </Col>
-            </Row>
+             </Row> 
           </Container>
 
         </div>    
