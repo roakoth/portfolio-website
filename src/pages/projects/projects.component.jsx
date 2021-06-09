@@ -41,7 +41,7 @@ const Projects = () => {
             <ImageEvent
             date="06/06/2021"
             className="text-center"
-            text="Personal Portfolio"
+            text="PERSONAL PORTFOLIO"
             src={L_Portfolio}
             alt="Personal Portfolio"
           >
@@ -124,7 +124,7 @@ const Projects = () => {
         <ImageEvent
             date="01/08/2020"
             className="text-center"
-            text="Board Game"
+            text="TURN BASED BOARD GAME"
             src={L_BoardGame}
             alt="Turn Based Board Game"
           >
@@ -219,7 +219,7 @@ const Projects = () => {
         <ImageEvent
             date="01/06/2020"
             className="text-center"
-            text="Restaurant Review Site"
+            text="RESTAURANT REVIEW SITE"
             src={L_Google_Maps}
             alt="Restaurant Review site"
           >
@@ -321,7 +321,7 @@ const Projects = () => {
         <ImageEvent
             date="11/05/2020"
             className="text-center"
-            text="Edgeledger website"
+            text="EDGELEDGER WEBSITE"
             src={L_EdgeLedger}
             alt="Edgeledger website"
           >
@@ -417,7 +417,7 @@ const Projects = () => {
         <ImageEvent
             date="20/04/2020"
             className="text-center"
-            text="Outdoor film festival"
+            text="OUTDOOR FILM FESTIVAL"
             src={L_FilmFestival}
             alt="Outdoor film festival"
           >
@@ -521,7 +521,7 @@ const Projects = () => {
      <ImageEvent
             date="11/04/2021"
             className="text-center"
-            text="Chuck norris Generator App"
+            text="CHUCK NORRIS GENERATOR APP"
             src={L_ChuckNorris}
             alt="Chuck norris Project"
           >
@@ -592,7 +592,7 @@ const Projects = () => {
      <ImageEvent
             date="01/04/2021"
             className="text-center"
-            text="Todo list app"
+            text="TODO LIST APP"
             src={L_VueJSToDoList}
             alt="Todo list app"
           >
