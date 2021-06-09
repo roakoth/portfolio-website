@@ -2,6 +2,12 @@
   /* background-color: transparent; */
   background-color: #fff;
   font-size: 1.1em;
+ 
+}
+
+#about {
+  width: 100vw;
+  background-color: #fff;
 }
 .profile {
   max-width: 18em;
