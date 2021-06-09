@@ -30,7 +30,7 @@ const About = () => {
                   I am <strong>&nbsp;Roselida Akoth Ochieng'</strong>
                 <br />A passionate frontend developer, who loves bringing life to websites, I come from Kenya. I am skilled in React.js, Javascript, HTML, CSS, Sass, Bootstrap and Content Management Systems such as Wordpress.
                 <br />
-                I hold a Bachelor degree in Information Technology. I received my diploma on frontend development certification at OpenClassrooms, I worked on nine projects with the guidance of a mentor.
+                I hold a Bachelor degree in Information Technology. I received my diploma frontend development certification at OpenClassrooms, I worked on nine projects with the guidance of a mentor.
                 <br />
                  I am attentive to every detail, focused on great user experience and mobile-first approach, whenever I am developing websites. 
                 <br />
@@ -50,7 +50,7 @@ const About = () => {
                             </a>
                         </div>
                         <div>
-                    <a href="https://drive.google.com/file/d/1cSw34XDkpKS1qtGH2Owt7mjjufmNNLMt/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                    <a href="https://drive.google.com/file/d/1sHmsk6S2CZadtUyDBgRL2RegboipLt4w/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                       <Button className="m-2" variant="outline-success">
                         My Resume
                       </Button>
