@@ -72,7 +72,7 @@ const Projects = () => {
                         <strong>Tech used:</strong>
                         <ul>
                           <li>
-                            <span className="p-2">
+                            <span className="tech">
                               <Image
                                 src={L_REACT}
                                 alt="React"
@@ -83,7 +83,7 @@ const Projects = () => {
                             </span>
                           </li>
                           <li>
-                            <span className="p-2">
+                            <span className="tech">
                               <Image
                                 src={L_REACT_BOOTSTRAP}
                                 alt="React Bootstrap"
@@ -154,7 +154,7 @@ const Projects = () => {
                         <strong>Tech used:</strong>
                         <ul>
                           <li>
-                            <span className="p-2">
+                            <span className="tech">
                               <Image
                                 src={L_HTML5}
                                 alt="HTML 5"
@@ -165,7 +165,7 @@ const Projects = () => {
                             </span>
                           </li>
                           <li>
-                            <span className="p-2">
+                            <span className="tech">
                               <Image
                                 src={L_CSS3}
                                 alt="CSS 3"
@@ -176,7 +176,7 @@ const Projects = () => {
                             </span>
                           </li>
                           <li>
-                            <span className="p-2">
+                            <span className="tech">
                               <Image
                                 src={L_JAVASCRIPT}
                                 alt="Javascript"
@@ -251,7 +251,7 @@ const Projects = () => {
                         <strong>Tech used:</strong>
                         <ul>
                           <li>
-                            <span className="p-2">
+                            <span className="tech">
                               <Image
                                 src={L_HTML5}
                                 alt="HTML 5"
@@ -262,7 +262,7 @@ const Projects = () => {
                             </span>
                           </li>
                           <li>
-                            <span className="p-2">
+                            <span className="tech">
                               <Image
                                 src={L_CSS3}
                                 alt="CSS 3"
@@ -273,7 +273,7 @@ const Projects = () => {
                             </span>
                           </li>
                           <li>
-                            <span className="p-2">
+                            <span className="tech">
                               <Image
                                 src={L_JAVASCRIPT}
                                 alt="Javascript"
@@ -284,7 +284,7 @@ const Projects = () => {
                             </span>
                           </li>
                           <li>
-                            <span className="p-2">
+                            <span className="tech">
                               <Image
                                 src={L_MAPS_API}
                                 alt="Google Maps APi"
@@ -352,7 +352,7 @@ const Projects = () => {
                         <strong>Tech used:</strong>
                         <ul>
                           <li>
-                            <span className="p-2">
+                            <span className="tech">
                               <Image
                                 src={L_HTML5}
                                 alt="HTML 5"
@@ -363,7 +363,7 @@ const Projects = () => {
                             </span>
                           </li>
                           <li>
-                            <span className="p-2">
+                            <span className="tech">
                               <Image
                                 src={L_CSS3}
                                 alt="CSS 3"
@@ -374,7 +374,7 @@ const Projects = () => {
                             </span>
                           </li>
                           <li>
-                            <span className="p-2">
+                            <span className="tech">
                               <Image
                                 src={L_JAVASCRIPT}
                                 alt="Javascript"
@@ -447,7 +447,7 @@ const Projects = () => {
                         <strong>Tech used:</strong>
                         <ul>
                           <li>
-                            <span className="p-2">
+                            <span className="tech">
                               <Image
                                 src={L_HTML5}
                                 alt="HTML 5"
@@ -458,7 +458,7 @@ const Projects = () => {
                             </span>
                           </li>
                           <li>
-                            <span className="p-2">
+                            <span className="tech">
                               <Image
                                 src={L_CSS3}
                                 alt="CSS 3"
@@ -469,7 +469,7 @@ const Projects = () => {
                             </span>
                           </li>
                           <li>
-                            <span className="p-2">
+                            <span className="tech">
                               <Image
                                 src={L_JAVASCRIPT}
                                 alt="Javascript"
@@ -480,7 +480,7 @@ const Projects = () => {
                             </span>
                           </li>
                           <li>
-                            <span className="p-2">
+                            <span className="tech">
                               <Image
                                 src={L_BOOTSTRAP4}
                                 alt="Bootstrap"

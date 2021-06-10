@@ -21,7 +21,7 @@
     width: 3em;
   }
 
-  span { 
-    font-weight: bold;
+  .tech { 
+    font-weight: bold; 
     font-size: 17px;
   }
